@@ -55,7 +55,7 @@ My research interests include soft robotics, shape-morphing electronics, and mec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='images/4-PNAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='images/4-PNAS1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A soft microrobot with highly deformable 3D actuators for climbing and transitioning complex surfaces](https://www.pnas.org/doi/10.1073/pnas.2215028119)
@@ -127,7 +127,7 @@ Liu Z†, Hu X†, Bo R†, Yang Y, Cheng X, Pang W, Liu Q, Wang Y, Wang S, **Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/other-7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/other-7-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inversely engineered biomimetic flexible network scaffolds for soft tissue regeneration](https://www.science.org/doi/10.1126/sciadv.adi8606)
