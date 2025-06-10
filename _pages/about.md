@@ -190,8 +190,12 @@ Ji Z†, Zhao J†, Song H\*, Xu S, Pang W, Hu X, Zhang F, Jin T, Shuai Y, Lan Y
 
 
 # 🎖 Selected Honors and Awards
+- *2025* Outstanding graduates, Tsinghua University
+- *2025* Excellent Doctoral Thesis, Tsinghua University
+- *2025* Invited Talk in the graduate students academic forum, Tsinghua University
 - *2023* Comprehensive first-class Scholarship, Tsinghua University
 - *2023* The award for research exploration, Tsinghua University
+- *2023* 1st-grade presentation award and Invited Talk in the graduate students academic forum, Tsinghua University
 - *2022* The best presentation award in "the Ph.D. students forum of Tsinghua University in the multidisciplinary area of flexible electronics", Tsinghua University
 - *2022* Comprehensive second-class Scholarship, Tsinghua University
 - *2020* Outstanding graduates, Huazhong University of Science and Technology
