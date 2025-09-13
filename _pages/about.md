@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Shiwei Xu. I am a Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2020-now), supervised by Prof. Yihui Zhang.
+Hi, my name is Shiwei Xu. I am a Ph.D. in Mechanics, Tsinghua University (2020-2025), supervised by Prof. Yihui Zhang.
 
 My research interests include soft robotics, shape-morphing electronics, and mechanics of flexible structures.
 
@@ -93,6 +93,16 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 [Bioinspired passive microfliers](https://www.sciengine.com/CSB/doi/10.1360/TB-2023-0130)
 
 **Xu S†**, Ji Z†, Zhang Y\*. Chinese Science Bulletin (in Chinese), 2023
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/xiaonan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rational assembly of 3D network materials and electronics through tensile buckling](https://www.science.org/doi/10.1126/sciadv.adz0718)
+
+Hu X, Liu Z, Tang Z, **Xu S**, Shen Z, Xiao Y, Yang Y, Bo R, Wang S, Pang W, Zhang Y\*. Science Advances, 2025 
 
 </div>
 </div>
@@ -190,6 +200,7 @@ Ji Z†, Zhao J†, Song H\*, Xu S, Pang W, Hu X, Zhang F, Jin T, Shuai Y, Lan Y
 
 
 # 🎖 Selected Honors and Awards
+- *2025* Academic rising star of graduate students (10 awardees in each year), Tsinghua University
 - *2025* Outstanding graduates, Tsinghua University
 - *2025* Excellent Doctoral Thesis, Tsinghua University
 - *2025* Invited Talk in the graduate students academic forum, Tsinghua University
@@ -204,7 +215,7 @@ Ji Z†, Zhao J†, Song H\*, Xu S, Pang W, Hu X, Zhang F, Jin T, Shuai Y, Lan Y
 - *2019* Grand prize in "International Engineering Mechanics Contest (Asian Region)", Committee of International Engineering Mechanics Contest
 - *2019* National Scholarship, Ministry of Education (P. R. China)
 # 📖 Educations
-- *2020.09 - now*, Ph.D in Department of Engineering Mechanics, Tsinghua University, Beijing, China
+- *2020.09 - 2025.06*, Ph.D in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2016.09 - 2020.06*, Bachelor in Department of Engineering Mechanics, Huazhong University of Science and Technology, Wuhan, China
 
 

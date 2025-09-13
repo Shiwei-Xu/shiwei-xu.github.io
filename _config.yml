@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiwei Xu"
-description              : "Ph.D. Candidate in Tsinghua University"
+description              : "Ph.D."
 repository               : "Shiwei-Xu/shiwei-xu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O0TCYCQAAAAJ&hl=en"
-  email            : "xsw20@mails.tsinghua.edu.cn"
+  email            : "xsw20@tsinghua.org.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
