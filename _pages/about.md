@@ -23,6 +23,18 @@ My research interests include soft robotics, shape-morphing electronics, and mec
 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int J Nolin Mech</div><img src='images/1-NLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fast-response electrically driven actuators with complex and programmable deformation modes](https://www.sciencedirect.com/science/article/abs/pii/S0020746226000375)
+
+**Xu S†**, Li Z†, Zhang Y\*. International Journal of Non-Linear Mechanics, 2026 
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Mach Intell</div><img src='images/1-NMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
