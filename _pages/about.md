@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Shiwei Xu.Hi, my name is Shiwei Xu. I am a postdoctoral researcher at Northwestern University, working with Prof. John A. Rogers. I received my Ph.D. in Solid Mechanics from Tsinghua University in 2025, under the supervision of Prof. Yihui Zhang.
+Hi, my name is Shiwei Xu. I am a **postdoctoral researcher** at Northwestern University, working with Prof. John Rogers. I received my Ph.D. in **Solid Mechanics** from Tsinghua University in 2025, under the supervision of Prof. Yihui Zhang.
 
 My research focuses on bioelectronics, robotics, smart materials, and the mechanics of flexible structures.
 
