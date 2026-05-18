@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Shiwei Xu. I am a Ph.D. in Mechanics, Tsinghua University (2020-2025), supervised by Prof. Yihui Zhang.
+Hi, my name is Shiwei Xu.Hi, my name is Shiwei Xu. I am a postdoctoral researcher at Northwestern University, working with Prof. John A. Rogers. I received my Ph.D. in Solid Mechanics from Tsinghua University in 2025, under the supervision of Prof. Yihui Zhang.
 
-My research interests include soft robotics, shape-morphing electronics, and mechanics of flexible structures.
+My research focuses on bioelectronics, robotics, smart materials, and the mechanics of flexible structures.
 
 
 # 📝 Publications
@@ -41,7 +41,7 @@ My research interests include soft robotics, shape-morphing electronics, and mec
 [Transforming machines capable of continuous 3D shape morphing and locking](https://www.nature.com/articles/s42256-025-01028-4)
 
 **Xu S**, Hu X, Yang R, Zang C, Li L, Xiao Y, Liu W, Tian B, Pang W, Bo R, Liu Q, Yang Y, Lai Y, Wu J, Zhao H, Wen L, Zhang Y\*. Nature Machine Intelligence, 2025 
--  This work has been reported by more than a hundred media outlets, including Xinhua News Agency and People's Daily.
+-  This work has been reported by more than one hundred media outlets, including Xinhua News Agency and People’s Daily. It was also featured in a Research Highlight in Nature Electronics, titled [A shape-morphing actuator that locks](https://www.nature.com/articles/s41928-025-01414-1).
 </div>
 </div>
 
