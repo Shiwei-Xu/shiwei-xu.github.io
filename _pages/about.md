@@ -129,7 +129,7 @@ Xiao Y, Hu X, Wu J, Shen Z, Wang S, **Xu S**, Zhao J, Chang J, Zhang Y\*. Journa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/other-5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-yuchen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An agile multimodal microrobot with architected passively morphing wheels](https://www.science.org/doi/10.1126/sciadv.adp1176)
@@ -189,7 +189,7 @@ Jin T, Cheng X, **Xu S**, Lai Y, Zhang Y\*. Journal of the Mechanics and Physics
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/other-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-tianqi.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Assembly of complex 3D structures and electronics on curved surfaces](https://www.science.org/doi/10.1126/sciadv.abm6922)
