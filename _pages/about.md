@@ -24,7 +24,7 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 
 # 📝 Publications
 
-- **--------------------First/Co-first author publications--------------------** 
+# First-author and co-first-author publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int J Nolin Mech</div><img src='images/1-NLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,7 +77,7 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 
 Pang W†, **Xu S†**, Wu J, Bo R, Jin T, Xiao Y, Liu Z, Zhang F, Cheng X, Bai K, Song H, Xue Z, Wen L, Zhang Y\*. Proceedings of the National Academy of Sciences of the United States of America, 2022
 
-- This work has been reported by reported by many media outlets, including People's Daily Online and Guangming Daily. 
+- This work has been reported by many media outlets, including People's Daily Online and Guangming Daily. 
 </div>
 </div>
 
@@ -113,7 +113,7 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 </div>
 
 
-- **--------------------Co-author publications--------------------** 
+# Co-author publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/xiaonan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -233,7 +233,7 @@ Ji Z†, Zhao J†, Song H\*, Xu S, Pang W, Hu X, Zhang F, Jin T, Shuai Y, Lan Y
 - *2019* Second class prize in "International Engineering Mechanics Contest (Final)", Committee of International Engineering Mechanics Contest
 - *2019* Grand prize in "International Engineering Mechanics Contest (Asian Region)", Committee of International Engineering Mechanics Contest
 - *2019* National Scholarship, Ministry of Education (P. R. China)
-# 📖 Educations
+# 📖 Education
 - *2020.09 - 2025.06*, Ph.D in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2016.09 - 2020.06*, Bachelor in Department of Engineering Mechanics, Huazhong University of Science and Technology, Wuhan, China
 

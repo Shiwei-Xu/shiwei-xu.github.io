@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiwei Xu"
-description              : "Ph.D."
+description              : "Postdoctoral Researcher"
 repository               : "Shiwei-Xu/shiwei-xu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Shiwei Xu"
   avatar           : "images/shiwei3.png"
   bio              : "Shiwei Xu (徐世威)"
-  location         : "Beijing, China"
+  location         : "Evanston, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=O0TCYCQAAAAJ&hl=en"
