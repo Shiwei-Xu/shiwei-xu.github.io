@@ -23,6 +23,9 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 
 
 # 📝 Publications
+
+- **First/Co-first author publications** 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int J Nolin Mech</div><img src='images/1-NLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,6 +111,9 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 
 </div>
 </div>
+
+
+- **Co-author publications** 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/xiaonan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
