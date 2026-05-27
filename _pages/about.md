@@ -212,6 +212,7 @@ Ji Z†, Zhao J†, Song H\*, Xu S, Pang W, Hu X, Zhang F, Jin T, Shuai Y, Lan Y
 
 
 # 🎖 Selected Honors and Awards
+- *2026* One of the ten annual Excellent Doctoral Theses of CSTAM, The Chinese Society of Theoretical and Applied Mechanics
 - *2025* Academic rising star of graduate students (10 awardees in each year), Tsinghua University
 - *2025* Outstanding graduates, Tsinghua University
 - *2025* Excellent Doctoral Thesis, Tsinghua University
