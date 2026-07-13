@@ -130,6 +130,19 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 
 
 # Co-author publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-ZM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A multifunctional porous interface bridging 3D architected electronics with skin](https://www.science.org/doi/full/10.1126/sciadv.aef0161)
+
+Shen Z†, Cheng X†, Luo X, Tang Z, Hu X, Zhang H, Xiao Y, Liu Q, **Xu S**, Liu Z, Bo R, Yao S, Zhang F, Zhang Y\*. Science Advances, 2026
+
+
+</div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/xiaonan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
