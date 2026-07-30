@@ -25,7 +25,7 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 # 📝 Publications
 
 # First, Co-First & Co-Corresponding Author Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='SA-0730.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-0730.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Musculoskeletal actuators with programmable morphology and tunable dynamics](https://www.science.org/doi/10.1126/sciadv.aeg4524)
