@@ -24,21 +24,18 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 
 # 📝 Publications
 
-# First-author and co-first-author publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='SA2026-shiwei.png' alt="sym" width="100%"></div></div>
+# First, Co-First & Co-Corresponding Author Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='SA-0730.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Musculoskeletal actuators with programmable morphology and tunable dynamics]
+[Musculoskeletal actuators with programmable morphology and tunable dynamics](https://www.science.org/doi/10.1126/sciadv.aeg4524)
 
 
-**Xu S**, Zang C, Tang Z, Yang R, Liu L, Peng J, Pang W, Gao Z, Hu X, Shen W, Liu Z, Qi M, Bo R, Zhang Y\*. Science Advances, 2026, Accepted
+**Xu S**, Zang C, Tang Z, Yang R, Liu L, Peng J, Pang W, Gao Z, Hu X, Shen W, Liu Z, Qi M, Bo R, Zhang Y\*. Science Advances, 2026
 
 
 </div>
 </div>
-
-
-
 
 
 
@@ -129,7 +126,7 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 </div>
 
 
-# Co-author publications
+# Co-author Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-ZM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
