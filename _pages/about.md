@@ -127,6 +127,20 @@ Pang W†, **Xu S†**, Bo R\*, Zhang Y\*. Advanced Intelligent Systems, 2023
 
 
 # Co-author Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv Mater</div><img src='images/AM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Perception-Feedback Mapping Strategies for Flexible Human–Machine Interfaces](https://doi.org/10.1002/adma.74589)
+
+Yang R, **Xu S**, Pang W, Zhang Y\*. Advanced Materials, 2026
+
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-ZM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
