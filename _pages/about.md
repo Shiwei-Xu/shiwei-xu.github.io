@@ -26,7 +26,7 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 
 # First, Co-First & Co-Corresponding Author Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sound Vib</div><img src='JSV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sound Vib</div><img src='images/JSV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fully soft actuators with programmable morphology and dynamic response](https://www.sciencedirect.com/science/article/abs/pii/S0022460X26004980)
