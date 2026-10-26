@@ -25,6 +25,22 @@ My research focuses on bioelectronics, robotics, smart materials, and the mechan
 # 📝 Publications
 
 # First, Co-First & Co-Corresponding Author Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J Sound Vib</div><img src='JSV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fully soft actuators with programmable morphology and dynamic response](https://www.sciencedirect.com/science/article/abs/pii/S0022460X26004980)
+
+
+Liu L, Ren Q, Li Z, Lu Y, **Xu S\***, Zhang Y\*. Journal of Sound and Vibration, 2026
+
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Adv</div><img src='images/SA-0730.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
